@@ -6,4 +6,21 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>helloworldmvc.main</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>fr.Exia</groupId>
+  		<artifactId>helloworldmvc.controller</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>fr.Exia</groupId>
+  		<artifactId>helloworldmvc.view</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>fr.Exia</groupId>
+  		<artifactId>helloworldmvc.model</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
